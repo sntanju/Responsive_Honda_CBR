@@ -3,3 +3,12 @@
     background-color: #264653;
     color: white;
 }
+.button-style{
+    background-color:#E76F51  ;
+    color: white;
+    width: 168px;
+    height: 44px;
+    border-radius: 5px;
+    text-decoration: none;
+    padding: 10px;
+}
