@@ -23,7 +23,7 @@
 .fetured-header-p{
     color: #E76F51    ;
 }
-/* happy client section  */
+/* happy client section style  */
 .happy-client-header{
     text-align: center;
 }
@@ -50,4 +50,17 @@
 .happy-client-name{
     text-align: center;
     color: #23A6F0;
+}
+/* frequently asked section style  */
+.freqently-asked-header{
+    text-align: center;
+    color: #E76F51; 
+}
+/* collapse icon style  */
+.fa-angle-down{
+    color: black;
+    font-size: 20px;
+}
+.collapse-style{
+    margin: 20px;
 }
