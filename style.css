@@ -12,3 +12,14 @@
     text-decoration: none;
     padding: 10px;
 }
+.ancor-style{
+    text-decoration: none;
+    color: white;
+}
+/* fetured section style  */
+.fetured-header{
+    text-align: center;
+}
+.fetured-header-p{
+    color: #E76F51    ;
+}
