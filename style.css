@@ -64,3 +64,9 @@
 .collapse-style{
     margin: 20px;
 }
+/* extra section style  */
+.fab{
+    margin: 10px;
+    color: chocolate;
+    font-size: 30px;
+}
