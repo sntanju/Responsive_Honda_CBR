@@ -23,3 +23,31 @@
 .fetured-header-p{
     color: #E76F51    ;
 }
+/* happy client section  */
+.happy-client-header{
+    text-align: center;
+}
+.happy-client-header-style{
+    color: #E76F51;
+}
+.happy-client-card{
+    width: 322;
+    height: 478;
+    align-items: center;
+}
+.happy-client-card img{
+    border-radius: 50%;
+    width: 149px;
+    height: 149px;
+    
+}
+.font-awesome-icon{
+    text-align: center;
+}
+.fa-star{
+     color: #E76F51;   
+}
+.happy-client-name{
+    text-align: center;
+    color: #23A6F0;
+}
